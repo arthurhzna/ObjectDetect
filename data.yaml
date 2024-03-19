@@ -1,0 +1,12 @@
+names:
+- bottle
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: bottle-f2u4m
+  url: https://universe.roboflow.com/sdp2/bottle-f2u4m/dataset/1
+  version: 1
+  workspace: sdp2
+test: /kaggle/working/bottle-1/test
+train: /kaggle/working/bottle-1/train
+val: /kaggle/working/bottle-1/train
